@@ -1,0 +1,14 @@
+C:\Users\Cab\source\repos\WCS_1-POO-Les_constructeurs\WCS_1-POO-Les_constructeurs\bin\Debug\netcoreapp3.1\WCS_1-POO-Les_constructeurs.exe
+C:\Users\Cab\source\repos\WCS_1-POO-Les_constructeurs\WCS_1-POO-Les_constructeurs\bin\Debug\netcoreapp3.1\WCS_1-POO-Les_constructeurs.deps.json
+C:\Users\Cab\source\repos\WCS_1-POO-Les_constructeurs\WCS_1-POO-Les_constructeurs\bin\Debug\netcoreapp3.1\WCS_1-POO-Les_constructeurs.runtimeconfig.json
+C:\Users\Cab\source\repos\WCS_1-POO-Les_constructeurs\WCS_1-POO-Les_constructeurs\bin\Debug\netcoreapp3.1\WCS_1-POO-Les_constructeurs.runtimeconfig.dev.json
+C:\Users\Cab\source\repos\WCS_1-POO-Les_constructeurs\WCS_1-POO-Les_constructeurs\bin\Debug\netcoreapp3.1\WCS_1-POO-Les_constructeurs.dll
+C:\Users\Cab\source\repos\WCS_1-POO-Les_constructeurs\WCS_1-POO-Les_constructeurs\bin\Debug\netcoreapp3.1\WCS_1-POO-Les_constructeurs.pdb
+C:\Users\Cab\source\repos\WCS_1-POO-Les_constructeurs\WCS_1-POO-Les_constructeurs\obj\Debug\netcoreapp3.1\WCS_1-POO-Les_constructeurs.csproj.AssemblyReference.cache
+C:\Users\Cab\source\repos\WCS_1-POO-Les_constructeurs\WCS_1-POO-Les_constructeurs\obj\Debug\netcoreapp3.1\WCS_1-POO-Les_constructeurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cab\source\repos\WCS_1-POO-Les_constructeurs\WCS_1-POO-Les_constructeurs\obj\Debug\netcoreapp3.1\WCS_1-POO-Les_constructeurs.AssemblyInfoInputs.cache
+C:\Users\Cab\source\repos\WCS_1-POO-Les_constructeurs\WCS_1-POO-Les_constructeurs\obj\Debug\netcoreapp3.1\WCS_1-POO-Les_constructeurs.AssemblyInfo.cs
+C:\Users\Cab\source\repos\WCS_1-POO-Les_constructeurs\WCS_1-POO-Les_constructeurs\obj\Debug\netcoreapp3.1\WCS_1-POO-Les_constructeurs.csproj.CoreCompileInputs.cache
+C:\Users\Cab\source\repos\WCS_1-POO-Les_constructeurs\WCS_1-POO-Les_constructeurs\obj\Debug\netcoreapp3.1\WCS_1-POO-Les_constructeurs.dll
+C:\Users\Cab\source\repos\WCS_1-POO-Les_constructeurs\WCS_1-POO-Les_constructeurs\obj\Debug\netcoreapp3.1\WCS_1-POO-Les_constructeurs.pdb
+C:\Users\Cab\source\repos\WCS_1-POO-Les_constructeurs\WCS_1-POO-Les_constructeurs\obj\Debug\netcoreapp3.1\WCS_1-POO-Les_constructeurs.genruntimeconfig.cache
